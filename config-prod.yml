@@ -1,2 +1,2 @@
-info:
-  res: config-prod.yml
+config:
+  info: prod.yml
