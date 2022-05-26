@@ -1,2 +1,2 @@
-info:
-  config-test.yml master
+config:
+  info: test.yml
