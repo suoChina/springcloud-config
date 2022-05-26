@@ -1,2 +1,2 @@
-config: 
-  info:  "hahha config-dev"
+common:
+   info: 大碗宽面！
